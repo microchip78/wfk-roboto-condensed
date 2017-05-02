@@ -11,7 +11,7 @@ Include roboto-condensed.css in your index.html or .angular-cli.json
 
 
 ```
-"../node_modules/wfk-roboto/roboto-condensed.css"
+"../node_modules/wfk-roboto-condensed/roboto-condensed.css"
 ```
 
 If you want to use font family constants in your scss stylesheet
