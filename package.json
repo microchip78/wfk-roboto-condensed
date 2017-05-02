@@ -1,6 +1,6 @@
 {
   "name": "wfk-roboto-condensed",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "WebFont Kit for Google Fonts - Roboto Family",
   "main": "index.js",
   "scripts": {
