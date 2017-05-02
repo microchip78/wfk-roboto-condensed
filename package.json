@@ -1,6 +1,6 @@
 {
   "name": "wfk-roboto-condensed",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "WebFont Kit for Google Fonts - Roboto Family",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/microchip78/wfk-roboto.git"
+    "url": "git+https://github.com/microchip78/wfk-roboto-condensed.git"
   },
   "keywords": [
     "WebFont",
